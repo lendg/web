@@ -1,0 +1,30 @@
+.kalkulatori {
+    width: 300px;
+    margin: 50px auto;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: gray;
+  }
+  
+  .ekrani {
+    width: 275px;
+    padding: 10px;
+    font-size: 24px;
+  }
+  
+
+  
+  button {
+    padding: 15px;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+  button:hover{
+    color: gray;
+  }
